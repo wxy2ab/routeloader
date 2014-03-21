@@ -1,0 +1,13 @@
+{
+  "name": "good_site",
+  "description": "a site",
+  "author": "wxy<wxy2ab@sina.com>",
+  "dependencies": {
+    "express": "*",
+    "sugar":"*"
+  },
+  "devDependencies": {
+
+  },
+  "engine": "node >= 0.10.x"
+}
