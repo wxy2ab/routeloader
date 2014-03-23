@@ -1,13 +1,25 @@
 {
   "name": "good_site",
+  "version": "0.1.0",
   "description": "a site",
   "author": "wxy<wxy2ab@sina.com>",
+  "contributors": [ 
+    {
+      "name": "wxy2ab",
+      "email": "wxy2ab@sina.com"
+    } 
+  ],
   "dependencies": {
     "express": "*",
     "sugar":"*"
   },
   "devDependencies": {
 
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wxy2ab/routeloader.git"
   },
   "engine": "node >= 0.10.x"
 }
