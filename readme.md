@@ -31,7 +31,7 @@ exports.str=function(){
  
 
 and here we go
-light up your app and vist this url http://host/<filename>/<methodname>
+light up your app and vist this url http://host/[filename]/[methodname]
 ```
 http://localhost/test1/hello
 ```
